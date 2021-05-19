@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/reportportal/agent-net-specflow/master/ReportPortal.SpecFlowPlugin/ReportPortal.config.schema",
+  "enabled": true,
+  "server": {
+    "url": "http://localhost:8080/api/v1/",
+    "project": "arhs",
+    "authentication": {
+      "uuid": "6c4a739f-2f74-4739-b2d2-66e24b68c662"
+    }
+  },
+  "launch": {
+    "name": "ARHS Test Case",
+    "description": "this is description",
+    "debugMode": true,
+    "attributes": [ "t1", "os:win10" ]
+  }
+}
