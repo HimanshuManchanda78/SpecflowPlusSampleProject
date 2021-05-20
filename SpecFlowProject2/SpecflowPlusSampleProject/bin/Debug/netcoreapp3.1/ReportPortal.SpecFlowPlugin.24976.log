@@ -1,6 +1,0 @@
-ReportPortalHooks Error: 0 : 20:23:18.8640760 : 1-TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1 : System.InsufficientExecutionStackException: Some of child test item(s) are not scheduled to finish yet.
-   at ReportPortal.Shared.Reporter.TestReporter.Finish(FinishTestItemRequest request) in C:\projects\commons-net\src\ReportPortal.Shared\Reporter\TestReporter.cs:line 171
-   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterFeature(FeatureContext featureContext)
-ReportPortalHooks Error: 0 : 20:23:18.9017859 : 1-TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1 : System.InsufficientExecutionStackException: Some of child test item(s) are not scheduled to finish yet.
-   at ReportPortal.Shared.Reporter.LaunchReporter.Finish(FinishLaunchRequest request) in C:\projects\commons-net\src\ReportPortal.Shared\Reporter\LaunchReporter.cs:line 213
-   at ReportPortal.SpecFlowPlugin.ReportPortalHooks.AfterTestRun()
