@@ -1,0 +1,154 @@
+﻿2021-05-20T20:25:02.7843952+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-05-20T20:25:02.7845918+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.7.3 in Framework netcore31 in x64 mode execution started
+2021-05-20T20:25:02.7846015+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-05-20T20:25:02.7883637+05:30;VSTestExecutionThread;Info;Current UserName: 'himan', MachineName: 'DESKTOP-8U0HBGS'
+2021-05-20T20:25:03.1189084+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecflowPlusSampleProject.dll
+2021-05-20T20:25:03.1191492+05:30;VSTestExecutionThread;Info;Output folder configured to "Results" in profile
+2021-05-20T20:25:03.1192323+05:30;VSTestExecutionThread;Info;Profile: SpecFlowProject2
+2021-05-20T20:25:03.2216994+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\Results\SpecFlowProject2_SpecFlowProject2_2021-05-20T202503.log
+2021-05-20T20:25:03.2324706+05:30;Thread#15;Info;Checking activation
+2021-05-20T20:25:03.5607197+05:30;Thread#15;Info;Activated.
+2021-05-20T20:25:03.5610717+05:30;Thread#15;Info;Activation check completed
+2021-05-20T20:25:03.5612120+05:30;Thread#15;Info;Starting test run
+2021-05-20T20:25:03.7442090+05:30;Thread#15;Info;Discovering target: Default
+2021-05-20T20:25:03.7444213+05:30;Thread#15;Info;Discovering tests from assembly: C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecflowPlusSampleProject.dll
+2021-05-20T20:25:04.0567585+05:30;Thread#15;Info;Discovered tests from assembly: C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecflowPlusSampleProject.dll
+2021-05-20T20:25:04.0585808+05:30:Test Suite Dump
+2021-05-20T20:25:04.0678882+05:30:#0: SpecFlowProject2/SpecFlowProject2 - 
+2021-05-20T20:25:04.0679231+05:30:#1: Default - 
+2021-05-20T20:25:04.0679268+05:30:#2: SpecflowPlusSampleProject - 
+2021-05-20T20:25:04.0679292+05:30:#3: Calculator - 
+2021-05-20T20:25:04.0702288+05:30:#4: Add two numbers - TestAssembly:SpecflowPlusSampleProject/Feature:Calculator/Scenario:Add+two+numbers
+2021-05-20T20:25:04.0703451+05:30:End: Test Suite Dump
+2021-05-20T20:25:04.1045788+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-05-20T20:25:04.1076534+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-05-20T20:25:04.1077767+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-05-20T20:25:04.1155239+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-05-20T20:25:04.1155452+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-05-20T20:25:04.1155478+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:True
+2021-05-20T20:25:04.1155515+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-05-20T20:25:04.1165436+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-05-20T20:25:04.1185101+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-05-20T20:25:04.1185772+05:30:Thread#1:Scheduler: get next test for thread 1
+2021-05-20T20:25:04.1186237+05:30:Thread#:Scheduler: at the end of normal test queue
+2021-05-20T20:25:04.1186340+05:30:Thread#1:Scheduler: enumerator for thread is at end
+2021-05-20T20:25:04.1186382+05:30:Thread#1:Scheduler: No more tests for thread
+2021-05-20T20:25:04.1313317+05:30:Thread #0: creating new test thread executor for SpecflowPlusSampleProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-05-20T20:25:04.1374813+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2021-05-20T20:25:04.1377580+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2021-05-20T20:25:04.1542247+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-05-20T20:25:04.1575380+05:30:starting Out Of Process Executor
+2021-05-20T20:25:04.1741528+05:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-20T20:25:04.1788532+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-05-20T20:25:04.1788764+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-05-20T20:25:04.1805209+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1'
+2021-05-20T20:25:04.1811873+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-05-20T20:25:04.1814356+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-05-20T20:25:04.1815747+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1'
+2021-05-20T20:25:04.1819909+05:30:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-20T20:25:04.1824156+05:30:Tfm: netcoreapp3.1
+2021-05-20T20:25:04.1824310+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-20T20:25:04.1824351+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-05-20T20:25:04.1826254+05:30:[AssemblyCache] Found file 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-05-20T20:25:04.1942294+05:30:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-05-20T20:25:04.1954834+05:30:Starting callback TCP Rpc server
+2021-05-20T20:25:04.2376319+05:30:Asynchronously starting background TCP Rpc Server on port 32768
+2021-05-20T20:25:04.2382313+05:30:Started callback TCP Rpc server on port 32768
+2021-05-20T20:25:04.2382466+05:30:Starting logger TCP Rpc server
+2021-05-20T20:25:04.2410122+05:30:Asynchronously starting background TCP Rpc Server on port 32769
+2021-05-20T20:25:04.2410737+05:30:Started logger TCP Rpc server on port 32769
+2021-05-20T20:25:04.3976951+05:30;Test Thread #0;Info;Executor full path resolved: C:\Program Files\dotnet\dotnet.exe
+2021-05-20T20:25:04.4008985+05:30;Test Thread #0;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2021-05-20T20:25:04.4948075+05:30;Test Thread #0;Info;Successfully started SpecFlow+ Runner executor process
+2021-05-20T20:25:04.5020484+05:30:Out of Process Executor 2768 started
+2021-05-20T20:25:04.5020731+05:30:Waiting for endpoint
+2021-05-20T20:25:05.8934827+05:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-20T20:25:05.8935919+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-05-20T20:25:05.8936039+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-05-20T20:25:05.8936174+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1'
+2021-05-20T20:25:05.8936235+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-05-20T20:25:05.8937480+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-05-20T20:25:05.8938326+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1'
+2021-05-20T20:25:05.8938449+05:30:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-20T20:25:05.8939500+05:30:Tfm: netcoreapp3.1
+2021-05-20T20:25:05.8939761+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-20T20:25:05.8939797+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-05-20T20:25:05.8941233+05:30:[AssemblyCache] Found file 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-05-20T20:25:05.9119602+05:30:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-05-20T20:25:06.6412985+05:30:Remote executor port received: 32770
+2021-05-20T20:25:06.6421850+05:30:Creating executor TCP client on port 32770
+2021-05-20T20:25:06.6431444+05:30:Created executor TCP client on port 32770
+2021-05-20T20:25:06.6431605+05:30:Connecting to remote executor TCP server
+2021-05-20T20:25:06.6455605+05:30:Connected remote executor TCP server
+2021-05-20T20:25:06.6462477+05:30:trying to connect to Out of Process Executor the 1 attempt
+2021-05-20T20:25:06.6462661+05:30:Connection to Out of Process Executor established in the 1 attempt
+2021-05-20T20:25:06.9741120+05:30:2021-05-20T20:25:06.9625791+05:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecflowPlusSampleProject.dll on test thread #0
+2021-05-20T20:25:07.0002975+05:30:Endpoint 2768 started
+2021-05-20T20:25:07.0455576+05:30:2021-05-20T20:25:07.0441829+05:30:OutOfProcessTestAssemblyExecutor: running tests...
+2021-05-20T20:25:07.5020335+05:30:2021-05-20T20:25:07.4704387+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.7.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-05-20T20:25:07.5167414+05:30:2021-05-20T20:25:07.5145349+05:30:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-05-20T20:25:07.5265826+05:30:2021-05-20T20:25:07.5240705+05:30:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\himan\.nuget\packages\specflow\3.7.13\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-05-20T20:25:07.8297530+05:30:2021-05-20T20:25:07.8281788+05:30:Thread#0:T:-> Loading plugin C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecflowPlusSampleProject.dll
+2021-05-20T20:25:07.8343559+05:30:2021-05-20T20:25:07.8328532+05:30:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-05-20T20:25:07.8373821+05:30:2021-05-20T20:25:07.8361422+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-05-20T20:25:07.8411466+05:30:2021-05-20T20:25:07.8395902+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\himan\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-05-20T20:25:07.9484787+05:30:2021-05-20T20:25:07.9470613+05:30:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-05-20T20:25:07.9503469+05:30:2021-05-20T20:25:07.9496542+05:30:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-05-20T20:25:07.9522119+05:30:2021-05-20T20:25:07.9516235+05:30:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\himan\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-05-20T20:25:07.9804128+05:30:2021-05-20T20:25:07.9791624+05:30:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecflowPlusSampleProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-05-20T20:25:07.9819403+05:30:2021-05-20T20:25:07.9813497+05:30:Thread#0:T:-> Loading plugin C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-05-20T20:25:07.9969854+05:30:2021-05-20T20:25:07.9962150+05:30:Assembly resolving LivingDoc.Dtos, Version=3.7.0.0, Culture=neutral, PublicKeyToken=null
+2021-05-20T20:25:07.9985302+05:30:2021-05-20T20:25:07.9979268+05:30:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-05-20T20:25:08.0002381+05:30:2021-05-20T20:25:07.9996463+05:30:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\himan\.nuget\packages\specflow.plus.livingdocplugin\3.7.141\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-05-20T20:25:08.0166845+05:30:2021-05-20T20:25:08.0157900+05:30:Thread#0:T:-> Loading plugin C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\ReportPortal.SpecFlowPlugin.dll
+2021-05-20T20:25:08.0310692+05:30:2021-05-20T20:25:08.0302677+05:30:Assembly resolving ReportPortal.Shared, Version=3.1.1.0, Culture=neutral, PublicKeyToken=null
+2021-05-20T20:25:08.0326266+05:30:2021-05-20T20:25:08.0319183+05:30:[AssemblyCache] Trying to resolve 'ReportPortal.Shared' from .deps.json file
+2021-05-20T20:25:08.0344372+05:30:2021-05-20T20:25:08.0338756+05:30:[AssemblyCache] Resolved 'ReportPortal.Shared' to 'C:\Users\himan\.nuget\packages\reportportal.shared\3.1.1\lib\netstandard2.0\ReportPortal.Shared.dll'
+2021-05-20T20:25:08.1311456+05:30:2021-05-20T20:25:08.1302282+05:30:Thread#0:T:-> Loading plugin C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-05-20T20:25:08.1535425+05:30:2021-05-20T20:25:08.1525587+05:30:Thread#0:T:-> Using default config
+2021-05-20T20:25:08.1750452+05:30:2021-05-20T20:25:08.1735336+05:30:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-05-20T20:25:08.1776549+05:30:2021-05-20T20:25:08.1764829+05:30:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-05-20T20:25:08.1810943+05:30:2021-05-20T20:25:08.1794366+05:30:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\himan\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-05-20T20:25:08.2003147+05:30:2021-05-20T20:25:08.1985649+05:30:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-05-20T20:25:08.2021420+05:30:2021-05-20T20:25:08.2013938+05:30:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-05-20T20:25:08.2039537+05:30:2021-05-20T20:25:08.2033405+05:30:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\himan\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-05-20T20:25:08.2665957+05:30:2021-05-20T20:25:08.2655427+05:30:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-20T20:25:08.2682528+05:30:2021-05-20T20:25:08.2675137+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-05-20T20:25:08.2707958+05:30:2021-05-20T20:25:08.2698368+05:30:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\himan\.nuget\packages\microsoft.testplatform.objectmodel\16.10.0-release-20210429-01\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-05-20T20:25:08.3631828+05:30:2021-05-20T20:25:08.3624101+05:30:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-05-20T20:25:08.3645686+05:30:2021-05-20T20:25:08.3640202+05:30:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-05-20T20:25:08.3661161+05:30:2021-05-20T20:25:08.3655980+05:30:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\himan\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-05-20T20:25:08.8245155+05:30:2021-05-20T20:25:08.8222669+05:30:Assembly resolving ReportPortal.Client, Version=3.0.4.0, Culture=neutral, PublicKeyToken=null
+2021-05-20T20:25:08.8281663+05:30:2021-05-20T20:25:08.8274274+05:30:[AssemblyCache] Trying to resolve 'ReportPortal.Client' from .deps.json file
+2021-05-20T20:25:08.8306820+05:30:2021-05-20T20:25:08.8299230+05:30:[AssemblyCache] Resolved 'ReportPortal.Client' to 'C:\Users\himan\.nuget\packages\reportportal.client\3.0.4\lib\netstandard2.0\ReportPortal.Client.dll'
+2021-05-20T20:25:08.9241923+05:30:2021-05-20T20:25:08.9231660+05:30:Assembly resolving ReportPortal.Shared, Culture=neutral, PublicKeyToken=null
+2021-05-20T20:25:08.9699106+05:30:Thread#0: Test #4/0 is started on thread #0
+2021-05-20T20:25:08.9879105+05:30:2021-05-20T20:25:08.9863660+05:30:Assembly resolving System.Private.DataContractSerialization.resources, Version=4.1.5.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-20T20:25:08.9929369+05:30:2021-05-20T20:25:08.9894877+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' from .deps.json file
+2021-05-20T20:25:08.9965393+05:30:2021-05-20T20:25:08.9954193+05:30:[AssemblyCache] Could not resolve 'System.Private.DataContractSerialization.resources' from .deps.json
+2021-05-20T20:25:09.0008294+05:30:2021-05-20T20:25:08.9999821+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1'
+2021-05-20T20:25:09.0041065+05:30:2021-05-20T20:25:09.0033167+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\System.Private.DataContractSerialization.resources.dll'
+2021-05-20T20:25:09.0062754+05:30:2021-05-20T20:25:09.0051961+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\System.Private.DataContractSerialization.resources.exe'
+2021-05-20T20:25:09.0080257+05:30:2021-05-20T20:25:09.0072835+05:30:[AssemblyCache] Could not resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1'
+2021-05-20T20:25:09.0102715+05:30:2021-05-20T20:25:09.0094298+05:30:TargetFramework: .NETCoreApp,Version=v3.1
+2021-05-20T20:25:09.0128719+05:30:2021-05-20T20:25:09.0121480+05:30:Tfm: netcoreapp3.1
+2021-05-20T20:25:09.0148092+05:30:2021-05-20T20:25:09.0139198+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-20T20:25:09.0165435+05:30:2021-05-20T20:25:09.0157757+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Private.DataContractSerialization.resources.dll'
+2021-05-20T20:25:09.0194878+05:30:2021-05-20T20:25:09.0179579+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Private.DataContractSerialization.resources.exe'
+2021-05-20T20:25:09.0212287+05:30:2021-05-20T20:25:09.0205485+05:30:[AssemblyCache] Could not resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Users\himan\Himanshu\Projects\SpecFlowProject2\SpecflowPlusSampleProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-05-20T20:25:09.0366762+05:30:2021-05-20T20:25:09.0356440+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-20T20:25:09.0393746+05:30:2021-05-20T20:25:09.0385592+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\System.Private.DataContractSerialization.resources.dll'
+2021-05-20T20:25:09.0416807+05:30:2021-05-20T20:25:09.0407497+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14\System.Private.DataContractSerialization.resources.exe'
+2021-05-20T20:25:09.0435535+05:30:2021-05-20T20:25:09.0428480+05:30:[AssemblyCache] Could not resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.14'
+2021-05-20T20:25:09.0460294+05:30:2021-05-20T20:25:09.0451225+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-20T20:25:09.0480030+05:30:2021-05-20T20:25:09.0469920+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\System.Private.DataContractSerialization.resources.dll'
+2021-05-20T20:25:09.0503427+05:30:2021-05-20T20:25:09.0491364+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14\System.Private.DataContractSerialization.resources.exe'
+2021-05-20T20:25:09.0520889+05:30:2021-05-20T20:25:09.0513904+05:30:[AssemblyCache] Could not resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.14'
+2021-05-20T20:25:09.0542548+05:30:2021-05-20T20:25:09.0534792+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-20T20:25:09.0559071+05:30:2021-05-20T20:25:09.0551472+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\System.Private.DataContractSerialization.resources.dll'
+2021-05-20T20:25:09.0579798+05:30:2021-05-20T20:25:09.0573113+05:30:[AssemblyCache] Trying to resolve 'System.Private.DataContractSerialization.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14\System.Private.DataContractSerialization.resources.exe'
+2021-05-20T20:25:09.0597444+05:30:2021-05-20T20:25:09.0591230+05:30:[AssemblyCache] Could not resolve 'System.Private.DataContractSerialization.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.14'
+2021-05-20T20:25:09.0641298+05:30:2021-05-20T20:25:09.0633575+05:30:Assembly resolving System.Private.DataContractSerialization.resources, Version=4.1.5.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-05-20T20:25:09.0789059+05:30:2021-05-20T20:25:09.0779999+05:30:Assembly resolving WebDriver, Version=4.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-05-20T20:25:09.0810331+05:30:2021-05-20T20:25:09.0802706+05:30:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2021-05-20T20:25:09.0831313+05:30:2021-05-20T20:25:09.0823767+05:30:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\himan\.nuget\packages\selenium.webdriver\4.0.0-beta2\lib\netstandard2.1\WebDriver.dll'
